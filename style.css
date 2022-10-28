@@ -1,13 +1,13 @@
 
 body{
-background-color:rgb(23, 156, 189) ;
+background-color:rgb(47, 131, 89) ;
 }
 
 Estilizar o título principal do seu site
  h1{
-color: rgb(114, 0, 0);
+color: rgb(114, 0, 76);
 font-family: Arial, Helvetica, sans-serif;
-background:greenyellow ;
+background:rgb(177, 111, 144) ;
 }
 
 Estilizar os parágrafos
